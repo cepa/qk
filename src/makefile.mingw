@@ -1,0 +1,4 @@
+all:
+	windres mingw.rc -o icon.o
+	g++ -o qk.exe main.cpp global.cpp engine.cpp startm.cpp cloud.cpp help.cpp game.cpp cannon.cpp bomb.cpp qrczok.cpp explosion.cpp icon.o -mwindows -O3 -Wall -lalleg
+	rm icon.o
