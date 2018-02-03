@@ -18,7 +18,7 @@ It's kinda a simple stupid shooter game, but apparently still works, tried on Wi
 * Run qk.exe
 
 ## How to build it?
-Haven't done in ages, so you need to figure out yourself. You'll need [Mingw](http://www.mingw.org/) compiler for Windows and [Allegro](http://liballeg.org/) installed in your system. Have a look to [src/makefile.mingw](https://github.com/cepa/qk/blob/master/src/makefile.mingw).
+Haven't done that ages, so you need to figure out yourself. You'll need [Mingw](http://www.mingw.org/) compiler for Windows and [Allegro](http://liballeg.org/) installed in your system. Have a look to [src/makefile.mingw](https://github.com/cepa/qk/blob/master/src/makefile.mingw).
 
 ## Questions?
 Visit http://cepa.io
