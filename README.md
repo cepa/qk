@@ -1,8 +1,8 @@
 # Qrczoks Killer
 
-*You must kill Qrczoks*
+**You must kill Qrczoks**<br />
 Qrczoks are these bloody chickens falling from the sky with parachutes who want to annihilate you.
-Your mission is to kill them all using your super secret weapon - Super Mega Anty Qrczok Cannon.
+Your mission is to kill them all using your super secret weapon - _Super Mega Anty Qrczok Cannon_.
 Your country needs you!
 
 ## WTF?
